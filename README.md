@@ -1,5 +1,5 @@
 # **Drawing on the Web** *Spring 2015*
 
-## Angry Owl SVG
+## Scaredy Owl SVG
 
-When you hover over the owl, he should start getting red and when you click on him it should lead to another image.
+The background of this image should gradually become a darker blue. Also, when you click on the owl it should lead to a video of nighttime sounds.
